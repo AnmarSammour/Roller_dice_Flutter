@@ -52,4 +52,3 @@ You can customize the application further by tweaking the colors, and gradients,
 - Modify the gradient colors in the `GradientContainer` widget to change the background appearance.
 - Adjust the dice images or add animations for a more interactive experience.
 - Implement sound effects to enhance the rolling experience.
-```
