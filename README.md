@@ -1,16 +1,57 @@
-# roller_dice
+```markdown
+# Roller Dice 🎲
 
-A new Flutter project.
+Roller Dice is a simple Flutter application that simulates rolling a dice. It allows users to click a button to roll the dice and view the result.
+
+## Features
+
+- Simulates rolling a standard six-sided dice.
+- Shows the rolled number visually using dice images.
+- Uses gradients for an aesthetically pleasing background.
+- Easy-to-use interface with a single button to roll the dice.
+
+## Video 🎥
+[Video](https://github.com/AnmarSammour/Roller_dice_Flutter/assets/112755848/941b87ac-2edd-4a31-b3dc-3fc84dbd8aa1)
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+To use this application, you need to have Flutter installed on your system. If you haven't installed Flutter yet, you can follow the [official Flutter installation instructions](https://flutter.dev/docs/get-started/install).
 
-A few resources to get you started if this is your first Flutter project:
+### Clone the Repository
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Clone this repository to your local machine using:
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+```
+git clone https://github.com/your_username/roller_dice.git
+```
+
+### Run the Application
+
+Navigate to the project directory and run the following command to install dependencies:
+
+```
+flutter pub get
+```
+
+Once the dependencies are installed, you can launch the app on an emulator/simulator or a physical device using:
+
+```
+flutter run
+```
+
+## How to Use
+
+1. After launching the application, you'll see a screen with a dice image and a button labeled "Roll Dice."
+2. Simply tap the "Roll Dice" button to roll the dice.
+3. The dice image will update to display the rolled number.
+4. Repeat step 2 to roll the dice again.
+
+## Customization
+
+You can customize the application further by tweaking the colors, gradients, or adding additional features. Here are a few suggestions:
+
+- Modify the gradient colors in the `GradientContainer` widget to change the background appearance.
+- Adjust the dice images or add animations for a more interactive experience.
+- Implement sound effects to enhance the rolling experience.
+```
+```
