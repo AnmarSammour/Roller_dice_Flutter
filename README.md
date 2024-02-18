@@ -4,7 +4,6 @@ Roller Dice is a simple Flutter application that simulates rolling a dice. It al
 
 ## Features
 
-- Simulates rolling a standard six-sided dice.
 - Shows the rolled number visually using dice images.
 - Uses gradients for an aesthetically pleasing background.
 - Easy-to-use interface with a single button to roll the dice.
@@ -44,11 +43,3 @@ flutter run
 2. Simply tap the "Roll Dice" button to roll the dice.
 3. The dice image will update to display the rolled number.
 4. Repeat step 2 to roll the dice again.
-
-## Customization
-
-You can customize the application further by tweaking the colors, and gradients, or adding additional features. Here are a few suggestions:
-
-- Modify the gradient colors in the `GradientContainer` widget to change the background appearance.
-- Adjust the dice images or add animations for a more interactive experience.
-- Implement sound effects to enhance the rolling experience.
