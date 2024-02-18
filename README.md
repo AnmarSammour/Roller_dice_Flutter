@@ -48,10 +48,9 @@ flutter run
 
 ## Customization
 
-You can customize the application further by tweaking the colors, gradients, or adding additional features. Here are a few suggestions:
+You can customize the application further by tweaking the colors, and gradients, or adding additional features. Here are a few suggestions:
 
 - Modify the gradient colors in the `GradientContainer` widget to change the background appearance.
 - Adjust the dice images or add animations for a more interactive experience.
 - Implement sound effects to enhance the rolling experience.
-```
 ```
