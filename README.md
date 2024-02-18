@@ -1,4 +1,3 @@
-```markdown
 # Roller Dice 🎲
 
 Roller Dice is a simple Flutter application that simulates rolling a dice. It allows users to click a button to roll the dice and view the result.
