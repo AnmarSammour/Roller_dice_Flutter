@@ -20,7 +20,7 @@ To use this application, you need to have Flutter installed on your system. If y
 Clone this repository to your local machine using:
 
 ```
-git clone https://github.com/your_username/roller_dice.git
+git clone https://github.com/AnmarSammour/Roller_dice_Flutter
 ```
 
 ### Run the Application
